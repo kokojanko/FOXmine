@@ -1,0 +1,31 @@
+.logodiv{
+    position: absolute;
+    margin-left: 32%;
+    background-color: black;
+}
+.imgfox{
+    position: absolute;
+    margin-top: 400px;
+}
+.infoimg{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    margin-left: 250px;
+}
+.infoimg:hover{
+    width: 400px;
+    height: 400px;
+    transition: 0.3s;
+}
+.aboutimg{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    margin-left: 1250px;
+}
+.aboutimg:hover{
+    width: 400px;
+    height: 400px;
+    transition: 0.3s;
+}
