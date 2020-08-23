@@ -1,11 +1,11 @@
 .logodiv{
     position: absolute;
-    margin-left: 32%;
     background-color: black;
+    margin-left: 40%;
 }
 .imgfox{
     position: absolute;
-    margin-top: 400px;
+    margin-top: 550px;
 }
 .infoimg{
     position: absolute;

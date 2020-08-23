@@ -1,0 +1,83 @@
+.wrapper{
+    border: black solid ;
+    width: calc(100% - 20px);
+    height: 150px;
+    margin-left: 10px;
+    background: linear-gradient(to top, #0026ff, #8c00ff)  ;   
+    font-family: MV Boli;
+}
+.blockside{
+    text-align: center;
+    height: 100%;
+    width: 20%;
+    float: left;
+    margin-left: 4%;
+    font-size: 2.5em;
+}
+.wrapper .blockside a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.blockside img{
+    margin-left: 50px;
+}
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.ivent{
+    border: black solid 2px;
+    width: 15%;
+    height: 550px;
+    margin-left: 10px;
+    float: left;
+    background: linear-gradient(to top, #0026ff, #8c00ff)  ;  
+}
+.ivent p {
+    font-size: 1.5em;
+    font-family: fantasy;
+    text-align: center;
+}
+.blockivent ul{
+    font-size: 1.5em;
+}
+.content1{
+    border: solid black 2px;
+    height: 550px;
+    width: 84%;
+    float: left;
+    background: linear-gradient(to top, #0026ff, #8c00ff)  ; 
+    font-size: 2.5em;
+}
+.content1 img{
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.foot{
+    border: black solid;
+    background: linear-gradient(to top, #0026ff, #8c00ff)  ;
+    width: calc(100% - 19px);
+    height: 200px;
+    float: left;
+    margin-left: 10px; 
+}
+.blockivent{
+    background-color: white;
+    border-radius: 10px;
+    width: calc(100% - 10px);
+    height: 60%;
+    margin-left: 5px;
+    overflow: auto;
+    background: linear-gradient(to top, #ffffff, #686868)  ; 
+}
+.foot a {
+    font-size: 2em;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+.foot ul li{
+    list-style-image: url("../png/50x50.png" );
+    margin-left: 2%;
+}
