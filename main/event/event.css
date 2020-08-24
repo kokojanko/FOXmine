@@ -1,6 +1,6 @@
 
 .logotip{
-    background: linear-gradient(to top, #ff0000, #8c00ff);
+    background: linear-gradient(to top, #8c00ff, #008cff);
     width: 300px;
     height: 300px;
     float: left;
@@ -12,7 +12,7 @@
 }
 .minidiscription{
     border: solid black;
-    background: linear-gradient(to top, #ff0000, #8c00ff);
+    background: linear-gradient(to top, #8c00ff, #008cff);
     height: 300px;
     font-size: 2em;
     width: 100%;
