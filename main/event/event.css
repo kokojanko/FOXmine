@@ -1,0 +1,65 @@
+
+.logotip{
+    background: linear-gradient(to top, #ff0000, #8c00ff);
+    width: 300px;
+    height: 300px;
+    float: left;
+    border: solid black;
+}
+.logotip img{
+    height: 300px;
+    width: 300px;
+}
+.minidiscription{
+    border: solid black;
+    background: linear-gradient(to top, #ff0000, #8c00ff);
+    height: 300px;
+    font-size: 2em;
+    width: 100%;
+    text-align: center ;
+}
+.minidiscription a{
+    margin-left: 75%;
+    font-style: italic;
+}
+.minidiscription p{
+    margin-top: 5%;
+}
+.wrapper{
+    width: 100%;
+    height: 600px;
+    background: linear-gradient(to top, #ff0000, #8c00ff);
+}
+.plugins{
+    border: black solid;
+    height: 600px;
+    width: 25%;
+    float: left;
+    text-align: center;
+    font-size: 2em;
+}
+.firstP {
+    border: black solid;
+    display: block;
+    width: 80%;
+    height: 80%;
+    margin-left: 10%;
+    background-color: silver;
+    overflow: auto;
+}
+.content1{
+    border: solid black;
+    height: 600px;
+    width: 100%;
+    font-size: 2em;
+    text-align: center;
+}
+.secP{
+    border:  black solid;
+    display: block;
+    width: 70%;
+    height: 80%;
+    margin-left: 27%;
+    overflow: auto;
+    background-color: silver;
+}

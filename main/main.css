@@ -1,10 +1,13 @@
+* :not(p , .ivent , .wrapper){
+    background: linear-gradient(to top, #5900ff, #8c00ff); 
+}
 .wrapper{
     border: black solid ;
     width: calc(100% - 20px);
     height: 150px;
-    margin-left: 10px;
-    background: linear-gradient(to top, #0026ff, #8c00ff)  ;   
+    margin-left: 10px;  
     font-family: MV Boli;
+    background: linear-gradient(to top, #5900ff, #8c00ff);
 }
 .blockside{
     text-align: center;
@@ -30,9 +33,8 @@
     border: black solid 2px;
     width: 15%;
     height: 550px;
-    margin-left: 10px;
-    float: left;
-    background: linear-gradient(to top, #0026ff, #8c00ff)  ;  
+    margin-left: 0px;
+    float: left; 
 }
 .ivent p {
     font-size: 1.5em;
@@ -43,24 +45,26 @@
     font-size: 1.5em;
 }
 .content1{
-    border: solid black 2px;
+    /* border: solid black 2px; */
     height: 550px;
     width: 84%;
     float: left;
-    background: linear-gradient(to top, #0026ff, #8c00ff)  ; 
     font-size: 2.5em;
 }
-.content1 img{
-    margin-top: 40px;
-    margin-left: 10px;
+
+.discriptiondiv{
+    /* border: solid black 4px; */
+    float: left;
+    height: 550px;
+    width: 69%;
 }
 .foot{
     border: black solid;
-    background: linear-gradient(to top, #0026ff, #8c00ff)  ;
     width: calc(100% - 19px);
     height: 200px;
     float: left;
     margin-left: 10px; 
+    background: linear-gradient(to top, #5900ff, #8c00ff);
 }
 .blockivent{
     background-color: white;
@@ -80,4 +84,23 @@
 .foot ul li{
     list-style-image: url("../png/50x50.png" );
     margin-left: 2%;
+}
+.wrappercontent{
+    border: solid black;
+    float: left;
+    width: calc(100% - 20px);
+    height: 550px;
+    margin-left: 10px;
+    background: linear-gradient(to top, #0004ff, #8528d1);
+}
+.conteynerimg{
+    /* border: solid black; */
+    float: left;
+    height: 550px;
+    width: 30%;
+}
+.conteynerimg img{
+    height:40% ;
+    width:100% ;
+    margin-top: 5%;
 }
