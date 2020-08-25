@@ -16,8 +16,8 @@ body{
     width: 100%;
     text-align: center ;
 }
-.minidiscription a{
-    margin-left: 75%;
+a{
+    font-size: 2em;
     font-style: italic;
 }
 .minidiscription p{
@@ -67,4 +67,12 @@ body{
 }
 .clear{
     clear: both;
+}
+button{
+    border-radius: 10px;
+}
+@media screen and (max-width:480px){
+    div , p , a {
+        font-size: 0.8em;
+    }
 }
