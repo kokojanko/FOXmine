@@ -116,6 +116,7 @@ body{
         /* border: solid black 2px; */
         height: 550px;
         width: 79%;
+        font-size: 2em;
     }
 }
 @media screen and (max-width:1024px){
@@ -131,6 +132,7 @@ body{
         height:25% ;
         width:100% ;
         margin-top: 5%;
+        font-size: 2em;
     }
 }
 @media screen and (max-width:768px){
@@ -159,7 +161,7 @@ body{
     .content1{
         height: 550px;
         width: 54%;
-        font-size: 1em;
+        font-size: 1.3em;
     }
     .foot{
         height: 250px;
