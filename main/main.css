@@ -67,11 +67,11 @@ body{
     width: calc(100% - 19px);
     height: 200px;
     float: left;
-    margin-left: 10px; 
+    margin-left: 10px;  
     
 }
 .blockivent{
-    background-color: white;
+    background-color: #ffffff;
     border-radius: 10px;
     width: calc(100% - 10px);
     height: 60%;
