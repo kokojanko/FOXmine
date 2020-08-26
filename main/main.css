@@ -77,7 +77,7 @@ body{
     height: 60%;
     margin-left: 5px;
     overflow: auto;
-    background: linear-gradient(to top, #00e1ff98, #001aff9c); 
+    background: linear-gradient(to top, #00e1ff98, #001aff9c);  
 }
 .foot a {
     font-size: 2em;
